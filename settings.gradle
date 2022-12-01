@@ -15,5 +15,5 @@ dependencyResolutionManagement {
         maven { url "https://jitpack.io" }
     }
 }
-rootProject.name = "Latency_Nexus"
+rootProject.name = "swapify"
 include ':app'

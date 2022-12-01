@@ -8,7 +8,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.live.latency_nexus"
+        applicationId "com.live.swapify"
         minSdk 21
         targetSdk 32
         versionCode 1
