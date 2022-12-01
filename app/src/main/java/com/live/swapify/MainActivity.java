@@ -181,6 +181,7 @@ public class MainActivity extends AppCompatActivity  {
 
             lottie = new lottiedialogfragment(MainActivity.this);
             lottie.show();
+            Toast.makeText(this, "Lottie", Toast.LENGTH_SHORT).show();
             Task<GoogleSignInAccount> task = GoogleSignIn.getSignedInAccountFromIntent(data);
             try {
                 // Google Sign In was successful, authenticate with Firebase

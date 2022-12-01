@@ -115,8 +115,8 @@ public class HomeFragment extends Fragment {
         postLists = new ArrayList<>();
         postAdapter = new PostAdapter(getContext(), postLists);
         recyclerView.setAdapter(postAdapter);
-        lottie = new lottiedialogfragment(getContext());
-        lottie.show();
+       // lottie = new lottiedialogfragment(getContext());
+       // lottie.show();
         checkFollowing();
         readPosts();
         LinearLayoutManager linearLayoutManagernearby = new LinearLayoutManager(getActivity(), LinearLayoutManager.HORIZONTAL, true);
@@ -469,7 +469,7 @@ public class HomeFragment extends Fragment {
                     }
                 }
                 postAdapter.notifyDataSetChanged();
-                lottie.dismiss();
+             //   lottie.dismiss();
 
             }
 
@@ -552,7 +552,8 @@ public class HomeFragment extends Fragment {
                     }
 
 
-                    lottie.dismiss();
+               //
+                    //     lottie.dismiss();
                     nearbyStoresAdapter.notifyDataSetChanged();
                 }
 
@@ -617,7 +618,7 @@ public class HomeFragment extends Fragment {
 
                         if (followers >= limit) {
                             usertLists.add(post);
-                            lottie.dismiss();
+                        //    lottie.dismiss();
                         }
 
                     }
