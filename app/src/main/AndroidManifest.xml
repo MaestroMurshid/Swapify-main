@@ -20,19 +20,19 @@
         android:theme="@style/Theme.Latency_Nexus"
         tools:targetApi="31">
         <activity
-            android:name="com.live.com.swapify.ImageActivity"
+            android:name="com.live.swapify.ImageActivity"
             android:exported="false" />
         <activity
-            android:name="com.live.com.swapify.KotActivity"
+            android:name="com.live.swapify.KotActivity"
             android:exported="false" />
         <activity
-            android:name="com.live.com.swapify.AddItemActivity"
+            android:name="com.live.swapify.AddItemActivity"
             android:exported="false" />
         <activity
-            android:name="com.live.com.swapify.HomeActivity"
+            android:name="com.live.swapify.HomeActivity"
             android:exported="false" />
         <activity
-            android:name="com.live.com.swapify.MainActivity"
+            android:name="com.live.swapify.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
