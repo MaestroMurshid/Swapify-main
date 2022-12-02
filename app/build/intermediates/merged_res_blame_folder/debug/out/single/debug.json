@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_ic_chat_box.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\ic_chat_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\layout_bottomnav_editposts.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\layout\\bottomnav_editposts.xml"
+    },
+    {
+        "merged": "com.live.swapify.app-merged_res-46:/layout_bottomnav_prdct_details.xml.flat",
+        "source": "com.live.swapify.app-main-48:/layout/bottomnav_prdct_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_ic_menu.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\ic_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_my_prdcts_btn.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\my_prdcts_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\menu_menu_myorders.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\menu\\menu_myorders.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\menu_menubottom.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\menu\\menubottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_btn_stroked.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\btn_stroked.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_search_btn.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\search_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_ic__off.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\ic__off.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\layout_profile_new_layout.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\layout\\profile_new_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\layout_comment_item.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\layout\\comment_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_ic_cart_ecommerce_price_tag_icon.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\ic_cart_ecommerce_price_tag_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_black_cursor.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\black_cursor.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\layout_nearby_items.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\layout\\nearby_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable_cstm_bg.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable\\cstm_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\layout_activity_add_item.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\layout\\activity_add_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\layout_bottomnav_prdct_details.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\layout\\bottomnav_prdct_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\layout_post_item.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\layout\\post_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\layout_fragment_search.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\layout_activity_kot.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\layout\\activity_kot.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_menu_btn.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\menu_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_btn_back.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\btn_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_ic_add.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_ic_email_envelope_letter_mail_message_icon.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\ic_email_envelope_letter_mail_message_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_ic__addphoto.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\ic__addphoto.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\layout_activity_image.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\layout\\activity_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\layout_bottom_sheet_container_comments.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\layout\\bottom_sheet_container_comments.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-pngs-41:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\layout_activity_verify_new.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\layout\\activity_verify_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable_round.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable\\round.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\layout_item_options.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\layout\\item_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_ic_home.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_ic_four_squares_line.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\ic_four_squares_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "com.live.swapify.app-merged_res-46:/layout_fragment_profile.xml.flat",
+        "source": "com.live.swapify.app-main-48:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\menu_main_menu_new.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\menu\\main_menu_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\menu_menu_post.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\menu\\menu_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_comment_backr.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\comment_backr.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_ic_search_zoom_icon.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\ic_search_zoom_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_ic__orderscame.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\ic__orderscame.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_ic_paper_plane.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\ic_paper_plane.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_lotgout_btn.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\lotgout_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_ic_cancel.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\ic_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_ic_user.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_chat_btn.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\chat_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_cart_btn.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\cart_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\layout_my_posts_item.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\layout\\my_posts_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\layout_fragment_my_posts_orders.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\layout\\fragment_my_posts_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_ic_cart.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\ic_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\layout_lottie.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\layout\\lottie.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\layout_slide_layout.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\layout\\slide_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\layout_user_item.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\layout\\user_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\layout_activity_slides.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\layout\\activity_slides.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_cstm_hmbg.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\cstm_hmbg.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_icon_backg_white.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\icon_backg_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_card_backgrd.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\card_backgrd.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_bottom_sheet_backround.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\bottom_sheet_backround.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-anydpi-v24_ic_back.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-pngs-41:\\drawable-anydpi-v24\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\layout_activity_verify.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\layout\\activity_verify.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\color_tab_item.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\color\\tab_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_price_round_back.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\price_round_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_ic_baseline_more_vert_24.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-anydpi-v24_ic__new_search.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-pngs-41:\\drawable-anydpi-v24\\ic__new_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-merged_res-46:\\drawable-v24_imag_back.xml.flat",
+        "source": "C:\\Users\\rashe\\.gradle\\daemon\\7.3.3\\com.live.swapify.app-main-48:\\drawable-v24\\imag_back.xml"
+    }
+]

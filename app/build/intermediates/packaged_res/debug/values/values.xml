@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <array name="id_activityScreenIcons">
+
+        <item>@drawable/ic_cancel</item>
+        <item>@drawable/ic_cancel</item>
+        <item>@drawable/ic_cancel</item>
+        <item>@drawable/ic_cancel</item>
+        <item>@drawable/ic_cancel</item>
+        <item>@drawable/ic_cancel</item>
+        <item>@drawable/ic_cancel</item>
+        <item>@drawable/ic_cancel</item>
+        <item>@drawable/ic_cancel</item>
+        <item/>
+        <item>@drawable/ic_cancel</item>
+
+    </array>
+    <string-array name="id_activityScreenTitles">
+        <item/>
+        <item> Home</item>
+        <item> Orders</item>
+        <item> Privacy Policy</item>
+        <item> Contact Us</item>
+        <item> Terms nd Conditions</item>
+        <item>Rate Us</item>
+        <item>Online Payment</item>
+        <item>Share App</item>
+
+        <item/>
+
+        <item>
+          Logout
+      </item>
+
+
+
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="blue">#00788A</color>
+    <color name="green">#00C853</color>
+    <color name="lightgrey">#EFEFEF</color>
+    <color name="ligtcolor">#747474</color>
+    <color name="maincolor">#333333</color>
+    <color name="orange">#FF6D00</color>
+    <color name="purple_200">#D8D8D8</color>
+    <color name="purple_500">#EDEDED</color>
+    <color name="purple_700">#D8D8D8</color>
+    <color name="red">#D50000</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="textcolor">#323232</color>
+    <color name="tranceperent">#00FFFFFF</color>
+    <color name="viewcolor">#4C4C4C</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Swapify</string>
+    <string name="default_web_client_id" translatable="false">688469330484-mank12pqfpkgjs0opkt9jc4re5ij3o93.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://swapify-a149a-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">688469330484</string>
+    <string name="google_api_key" translatable="false">AIzaSyAkkYpRMU2cphewMxniVz6T5RVIKpkv3i0</string>
+    <string name="google_app_id" translatable="false">1:688469330484:android:3d4af48eb8ea6bb16b1861</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAkkYpRMU2cphewMxniVz6T5RVIKpkv3i0</string>
+    <string name="google_storage_bucket" translatable="false">swapify-a149a.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="project_id" translatable="false">swapify-a149a</string>
+    <style name="AlertDialogTheme" parent="ThemeOverlay.MaterialComponents.Dialog.Alert">
+        <item name="buttonBarNegativeButtonStyle">@style/NegativeButtonStyle</item>
+        <item name="colorPrimary">@color/maincolor</item>
+        <item name="colorPrimaryVariant">@color/maincolor</item>
+        <item name="buttonBarPositiveButtonStyle">@style/PositiveButtonStyle</item>
+    </style>
+    <style name="AppThemeBasenew" parent="Theme.MaterialComponents.DayNight">
+        <item name="actionBarTheme">@style/ThemeOverlay.ActionBar</item>
+        <item name="colorPrimary">@color/ligtcolor</item>
+        <item name="android:forceDarkAllowed" ns1:targetApi="q">false</item>
+        <item name="colorPrimaryDark">#D1D1D1</item>
+        <item name="android:colorButtonNormal">#474747</item>
+        ...
+    </style>
+    <style name="BottomSheetDialogTheme" parent="Theme.Design.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/BottomSheetStyle</item>
+    </style>
+    <style name="BottomSheetStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@color/tranceperent</item>
+    </style>
+    <style name="NegativeButtonStyle" parent="Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:textColor">#f00</item>
+    </style>
+    <style name="PositiveButtonStyle" parent="Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:textColor">#00f</item>
+    </style>
+    <style name="Theme.Latency_Nexus" parent="Theme.MaterialComponents.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="ThemeOverlay.ActionBar" parent="">
+        <item name="colorPrimary">#fff</item>
+    </style>
+    <style name="expandedBarTextStyle" parent="Theme.Latency_Nexus">
+
+        <item name="android:textSize">0sp</item>
+        <item name="android:textColor">@color/tranceperent</item>
+
+
+    </style>
+</resources>
