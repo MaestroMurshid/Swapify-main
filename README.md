@@ -5,7 +5,7 @@
 Tell us about your project here
 
 ## Team Members
-[1.Team Member 1](enter_github_profile_url)   
+[1.Mohammed Murshid](enter_github_profile_url)   
 [2.Team Member 2](enter_github_profile_url)   
 [3.Team Member 3](enter_github_profile_url)   
 [4.Team Member 4](enter_github_profile_url)   
