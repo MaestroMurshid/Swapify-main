@@ -5,6 +5,7 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.CALL_PHONE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -20,19 +21,26 @@
         android:theme="@style/Theme.Latency_Nexus"
         tools:targetApi="31">
         <activity
-            android:name="com.live.swapify.ImageActivity"
+            android:name=".MainActivity2"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".ImageActivity"
             android:exported="false" />
         <activity
-            android:name="com.live.swapify.KotActivity"
+            android:name=".KotActivity"
             android:exported="false" />
         <activity
-            android:name="com.live.swapify.AddItemActivity"
+            android:name=".AddItemActivity"
             android:exported="false" />
         <activity
-            android:name="com.live.swapify.HomeActivity"
+            android:name=".HomeActivity"
             android:exported="false" />
         <activity
-            android:name="com.live.swapify.MainActivity"
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
