@@ -443,12 +443,11 @@ public class HomeFragment extends Fragment {
                 for (DataSnapshot snapshot : datasnapshot.getChildren()) {
                     MyPosts post = snapshot.getValue(MyPosts.class);
                     if (snapshot.hasChild("publisher")) {
-                        for (String id : followingList) {
-                            if (post.getPublisher().equals(id)) {
-                                postLists.add(post);
-                            }
 
-                        }
+                                postLists.add(post);
+
+
+
                     }
                 }
                 if (postLists.size() == 0) {

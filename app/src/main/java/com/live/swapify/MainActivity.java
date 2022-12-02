@@ -237,7 +237,7 @@ public class MainActivity extends AppCompatActivity  {
         hashMap.put("imageurl", firebaseUser.getPhotoUrl().toString());
         hashMap.put("username", firebaseUser.getDisplayName().toLowerCase());
         hashMap.put("name", firebaseUser.getDisplayName());
-        hashMap.put("bio", "Nexus User");
+        hashMap.put("bio", "Swapify User");
         hashMap.put("usertype", false);
         hashMap.put("lati", "0");
         hashMap.put("longi", "0");

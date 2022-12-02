@@ -231,7 +231,7 @@
             android:background="@drawable/btn_back"
             android:gravity="center"
             android:padding="12dp"
-            android:text="Add to Cart"
+            android:text="Bid"
             android:textColor="@color/white"
             android:textStyle="bold"></TextView>
 

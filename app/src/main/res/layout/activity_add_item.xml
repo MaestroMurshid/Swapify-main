@@ -195,7 +195,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:textCursorDrawable="@drawable/black_cursor"
-                    android:hint="MRP Price in rupees"
+                    android:hint=" Price in rupees"
                     android:inputType="number" />
 
             </com.google.android.material.textfield.TextInputLayout>

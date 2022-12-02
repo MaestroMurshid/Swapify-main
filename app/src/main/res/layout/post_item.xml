@@ -22,6 +22,7 @@
             android:layout_height="match_parent"
 
             >
+
     <ImageView
         android:id="@+id/post_image"
         android:layout_width="0dp"
