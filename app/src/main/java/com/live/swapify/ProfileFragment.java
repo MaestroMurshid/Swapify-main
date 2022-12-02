@@ -65,7 +65,7 @@ public class ProfileFragment extends Fragment {
     String profileid;
     ImageView my_posts, my_orders;
     RecyclerView recyclerView;
-   MyPostsAdapter userPostsAdapter;
+    MyPostsAdapter userPostsAdapter;
     List<MyPosts> postsList;
     LottieAnimationView lottieAnimationView;
     private List<String> mySaves;
@@ -163,14 +163,15 @@ public class ProfileFragment extends Fragment {
         share.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                createlink(image_profile, image_url);
+                startActivity(new Intent(getContext(), VerifyNewActivity.class)
+                );
             }
         });
         my_orders.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-               // Intent intent = new Intent(getContext(), CartActivity.class);
-              //  startActivity(intent);
+                // Intent intent = new Intent(getContext(), CartActivity.class);
+                //  startActivity(intent);
             }
         });
         editprofile.setOnClickListener(new View.OnClickListener() {
@@ -178,14 +179,14 @@ public class ProfileFragment extends Fragment {
             public void onClick(View v) {
                 String btn = editprofile.getText().toString();
                 if (editprofile.getText().toString().equals("Edit Profile")) {
-                   // Intent intent = new Intent(getContext(), EditProfileActivity.class);
+                    // Intent intent = new Intent(getContext(), EditProfileActivity.class);
                     Pair[] pairs = new Pair[1];
                     pairs[0] = new Pair<View, String>(image_profile, "profile");
                     if ((Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP)) {
                         ActivityOptions options = ActivityOptions.makeSceneTransitionAnimation((Activity) getContext(), pairs);
-                       // startActivity(intent, options.toBundle());
+                        // startActivity(intent, options.toBundle());
                     } else {
-                      //  startActivity(intent);
+                        //  startActivity(intent);
                     }
                 }
                 //Editprofile
@@ -220,18 +221,18 @@ public class ProfileFragment extends Fragment {
         tv_following.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-              //  Intent intent = new Intent(getContext(), FollowersActivity.class);
-             //   intent.putExtra("id", profileid);
-             //   intent.putExtra("title", "following");
-               // startActivity(intent);
+                //  Intent intent = new Intent(getContext(), FollowersActivity.class);
+                //   intent.putExtra("id", profileid);
+                //   intent.putExtra("title", "following");
+                // startActivity(intent);
             }
         });
 
         tv_followes.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-               // Intent intent = new Intent(getContext(), FollowersActivity.class);
-               // intent.putExtra("id", profileid);
+                // Intent intent = new Intent(getContext(), FollowersActivity.class);
+                // intent.putExtra("id", profileid);
                 //intent.putExtra("title", "followers");
                 //startActivity(intent);
             }
@@ -239,10 +240,10 @@ public class ProfileFragment extends Fragment {
         following.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-               // Intent intent = new Intent(getContext(), FollowersActivity.class);
-               //intent.putExtra("id", profileid);
+                // Intent intent = new Intent(getContext(), FollowersActivity.class);
+                //intent.putExtra("id", profileid);
                 //intent.putExtra("title", "following");
-               // startActivity(intent);
+                // startActivity(intent);
             }
         });
 
@@ -434,7 +435,7 @@ public class ProfileFragment extends Fragment {
                             BitmapDrawable drawable = (BitmapDrawable) image_profile1.getDrawable();
                             Bitmap bitmap = drawable.getBitmap();
                             String bitmappath = MediaStore.Images.Media.insertImage(getContext().getApplicationContext().getContentResolver(), bitmap
-                                    ,  "IMG_" + System.currentTimeMillis(), "desc");
+                                    , "IMG_" + System.currentTimeMillis(), "desc");
 
                             Uri uri = Uri.parse(bitmappath);
 
@@ -442,7 +443,7 @@ public class ProfileFragment extends Fragment {
                             intent.setType("image/png");
                             intent.putExtra(Intent.EXTRA_STREAM, uri);
 
-                            intent.putExtra(Intent.EXTRA_TEXT, "*"+store_name+"*"+"\nYour orders will arrive your doorsteps.Visit our online store now.\n" + shortLink.toString());
+                            intent.putExtra(Intent.EXTRA_TEXT, "*" + store_name + "*" + "\nYour orders will arrive your doorsteps.Visit our online store now.\n" + shortLink.toString());
 
                             startActivity(Intent.createChooser(intent, "share"));
                             share.setVisibility(View.VISIBLE);
