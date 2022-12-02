@@ -89,7 +89,7 @@ public class ProfileFragment extends Fragment {
         lottie = new lottiedialogfragment(getContext());
         lottie.show();
         posts = view.findViewById(R.id.posts);
-        tv_followes = view.findViewById(R.id.textView27);
+
         tv_following = view.findViewById(R.id.textView30);
         share = view.findViewById(R.id.img_share);
         followers = view.findViewById(R.id.followers);
@@ -192,14 +192,12 @@ public class ProfileFragment extends Fragment {
                 else if (editprofile.getText().toString().equals("follow")) {
                     FirebaseDatabase.getInstance().getReference().child("Follow").child(firebaseUser.getUid())
                             .child("following").child(profileid).setValue(true);
-                    FirebaseDatabase.getInstance().getReference().child("Follow").child(firebaseUser.getUid())
-                            .child("followers").child(firebaseUser.getUid()).setValue(true);
+
 
                 } else if (editprofile.getText().toString().equals("following")) {
                     FirebaseDatabase.getInstance().getReference().child("Follow").child(firebaseUser.getUid())
                             .child("following").child(profileid).removeValue();
-                    FirebaseDatabase.getInstance().getReference().child("Follow").child(profileid)
-                            .child("followers").child(firebaseUser.getUid()).removeValue();
+
 
                 }
 
@@ -227,15 +225,7 @@ public class ProfileFragment extends Fragment {
             }
         });
 
-        tv_followes.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-               // Intent intent = new Intent(getContext(), FollowersActivity.class);
-               // intent.putExtra("id", profileid);
-                //intent.putExtra("title", "followers");
-                //startActivity(intent);
-            }
-        });
+
         following.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -246,15 +236,7 @@ public class ProfileFragment extends Fragment {
             }
         });
 
-        followers.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-               /* Intent intent = new Intent(getContext(), FollowersActivity.class);
-                intent.putExtra("id", profileid);
-                intent.putExtra("title", "followers");
-                startActivity(intent);*/
-            }
-        });
+
         return view;
     }
 

@@ -18,6 +18,7 @@ import android.content.res.TypedArray;
 import android.graphics.drawable.Drawable;
 import android.net.Uri;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.MenuItem;
 import android.widget.ImageView;
 import android.widget.Toast;
@@ -45,7 +46,6 @@ public class HomeActivity extends AppCompatActivity implements DrawerAdapter.OnI
 
     private String[] screenTitles;
     private Drawable[] screenIcons;
-
 
     String prdid,cstid;
     private final int UPDATE_REQUEST_CODE = 1612;
