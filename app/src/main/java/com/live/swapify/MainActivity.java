@@ -210,7 +210,7 @@ public class MainActivity extends AppCompatActivity  {
 
                             FirebaseUser user = mAuth.getCurrentUser();
                             adddata();
-
+                            Toast.makeText(MainActivity.this, "ADDDD", Toast.LENGTH_SHORT).show();
                             // updateUI(user);
                         } else {
                             // If sign in fails, display a message to the user.
@@ -272,3 +272,4 @@ public class MainActivity extends AppCompatActivity  {
         startActivityForResult(signInIntent, RC_SIGN_IN);
     }
 }
+//set

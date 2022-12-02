@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "688469330484",
+    "firebase_url": "https://swapify-a149a-default-rtdb.asia-southeast1.firebasedatabase.app",
     "project_id": "swapify-a149a",
     "storage_bucket": "swapify-a149a.appspot.com"
   },
@@ -13,6 +14,67 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "688469330484-1v1krgm6615pnpqosmkf112nuskcr9t6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.live.swapify",
+            "certificate_hash": "98c4886346b076e9c52fc8c0faa461834a191b2e"
+          }
+        },
+        {
+          "client_id": "688469330484-jdna779c84v9t0c7poh4mmrste8lgann.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.live.swapify",
+            "certificate_hash": "3cb07e189e6c39dde4a1e9bae57a9b251eaad68e"
+          }
+        },
+        {
+          "client_id": "688469330484-mank12pqfpkgjs0opkt9jc4re5ij3o93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkkYpRMU2cphewMxniVz6T5RVIKpkv3i0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688469330484-mank12pqfpkgjs0opkt9jc4re5ij3o93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688469330484:android:91c6503f7257d4f86b1861",
+        "android_client_info": {
+          "package_name": "com.magnathon.swapify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688469330484-o0qusj3a1443mv7o4hbavk6he6ba6526.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.magnathon.swapify",
+            "certificate_hash": "98c4886346b076e9c52fc8c0faa461834a191b2e"
+          }
+        },
+        {
+          "client_id": "688469330484-roe3g7ivhoor6ndikh9s2mlpuqmco495.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.magnathon.swapify",
+            "certificate_hash": "3cb07e189e6c39dde4a1e9bae57a9b251eaad68e"
+          }
+        },
         {
           "client_id": "688469330484-mank12pqfpkgjs0opkt9jc4re5ij3o93.apps.googleusercontent.com",
           "client_type": 3
